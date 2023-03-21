@@ -1,0 +1,21 @@
+
+    *
+    {
+        margin: 0px;
+    }
+
+    h1
+    {
+        text-align: center;
+        background-color: blue;
+        color: white;
+    }
+    
+    img
+    {
+        border-radius: 5px;
+        margin-top: 220px;
+        width: 450px;
+        height: 300px;
+    }
+    
